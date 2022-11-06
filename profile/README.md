@@ -1,3 +1,3 @@
 DBeaver Corp
 
-We develop wonderful tools to help to work with databases.
+We develop wonderful tools you to help to work with databases.
